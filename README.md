@@ -1,7 +1,5 @@
-<h1 align="center">👋 Hi there, I'm Suniti</h1>
+<h1>👋 Hi there, I'm Suniti</h1>
 
-
-  ![photo](https://user-images.githubusercontent.com/72435330/126862458-876ddab4-b760-47e8-a38c-41ad4be4b74b.png)
 
 - 🎓 I am in my pre final year studying Electronics and Communication Engineering at Heritage Institute of Technology, Kolkata. 
 - 👩‍💻 I am learning Data Structures and Efficient Algortihms in C++.
