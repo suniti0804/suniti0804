@@ -4,22 +4,33 @@
 - 🎓 I am in my pre final year studying Electronics and Communication Engineering at Heritage Institute of Technology, Kolkata. 
 - 👩‍💻 I am learning Data Structures and Efficient Algortihms in C++.
 - 💻 I am interested in domain of Machine Learning and I work on projects based on ML.
-- 🗨 You can connect with me on [LinkedIn](https://www.linkedin.com/in/suniti-53173a1b1/) or can send me an email at suniti0804@gmail.com.                                                         
-  
-  <img align="left" width="400" height="300" style="padding-right: 100px; padding-bottom: 20px" src="https://user-images.githubusercontent.com/72435330/126872280-971d4f10-34f0-4da9-9376-a1653a5535c2.jpg">
+- 🗨 You can connect with me on [LinkedIn](https://www.linkedin.com/in/suniti-53173a1b1/) or can send me an email at suniti0804@gmail.com.                                     
   
   
-  <p align="left">My activities across various coding platforms - </p>
+  <br>
+<p align="left"><h2>👩‍💻My Activities across Coding Platforms </h2></p>
+  <img align="right" width="400" height="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
   
-<p align="left">
+  <p align="left">
   <a href="https://auth.geeksforgeeks.org/user/suniti0804/practice/">⭐GeeksForGeeks</a> <br>
   <a href="https://leetcode.com/suniti0804/">⭐LeetCode</a> <br>
   <a href="https://www.hackerearth.com/@suniti0804">⭐HackerEarth</a>
-  <br><br>
-</p>
-
- 
+  </br></br></br>
   
+  </p>
+
+<br><br><br><br>
+<p align="left"><h2>📊 My GitHub Stats </p></h2>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suniti0804&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suniti0804&theme=tokyonight)](https://git.io/streak-stats)
+
+
+
+</br></br></br></br>
+
+
+
  
 
             
