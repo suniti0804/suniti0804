@@ -22,6 +22,8 @@
 <br><br><br><br>
 <p align="left"><h2>📊 My GitHub Stats </p></h2>
 
+![](https://komarev.com/ghpvc/?username=suniti0804)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=suniti0804&show_icons=true&theme=tokyonight)
 <br><br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suniti0804&theme=tokyonight)](https://git.io/streak-stats)
