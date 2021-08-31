@@ -1,9 +1,9 @@
-<h1>👋 Hi there, I'm Suniti</h1>
+<h1>👋 Hi there, I'm Suniti </h1>
 
 
 - 🎓 I am in my pre final year studying Electronics and Communication Engineering at Heritage Institute of Technology, Kolkata. 
 - 👩‍💻 I am learning Data Structures and Efficient Algortihms in C++.
-- 💻 I am interested in domain of Machine Learning and I work on projects based on ML.
+- 💻 I am interested in domain of Machine Learning and Web Development.
 - 🗨 You can connect with me on [LinkedIn](https://www.linkedin.com/in/suniti-53173a1b1/) or can send me an email at suniti0804@gmail.com.                                     
   
   
