@@ -2,8 +2,9 @@
 
 
 - 🎓 I am in my pre final year studying Electronics and Communication Engineering at Heritage Institute of Technology, Kolkata. 
-- 👩‍💻 I am learning Data Structures and Efficient Algortihms in C++.
-- 💻 I am interested in domain of Machine Learning and Web Development.
+- 👩‍💻 I practice Data Structures and Algortihms in C++.
+- 💻 I am interested in domain of Machine Learning and Web Development
+- 💻 Currently I am learning React JS.
 - 🗨 You can connect with me on [LinkedIn](https://www.linkedin.com/in/suniti-53173a1b1/) or can send me an email at suniti0804@gmail.com.                                     
   
   
