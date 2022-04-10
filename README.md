@@ -29,6 +29,9 @@
 <br><br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suniti0804&theme=tokyonight)](https://git.io/streak-stats)
 
+<!-- ACTIVITY GRAPH TRACKER -->
+[![Suniti's github activity graph](https://activity-graph.herokuapp.com/graph?username=suniti0804&theme=react-dark)](https://github.com/suniti0804/github-readme-activity-graph)
+
 
 
 </br></br></br></br>
