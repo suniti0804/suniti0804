@@ -21,7 +21,8 @@
   </p>
 
 <br><br><br><br>
-<p align="left"><h2>📊 My GitHub Stats </p></h2>
+<h2>📊 My GitHub Stats</h2>
+
 
 ![](https://komarev.com/ghpvc/?username=suniti0804)
 
