@@ -24,11 +24,15 @@
 <h2>📊 My GitHub Stats</h2>
 
 
-![](https://komarev.com/ghpvc/?username=suniti0804)
+<!---![](https://komarev.com/ghpvc/?username=suniti0804)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=suniti0804&show_icons=true&theme=tokyonight)
 <br><br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suniti0804&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suniti0804&theme=tokyonight)](https://git.io/streak-stats)  --->
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=suniti0804&show_icons=true&theme=tokyonight" alt="suniti0804" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suniti0804&show_icons=true&theme=tokyonight_duo" alt="suniti0804" /></p>
 
 <!-- ACTIVITY GRAPH TRACKER -->
 [![Suniti's github activity graph](https://activity-graph.herokuapp.com/graph?username=suniti0804&theme=react-dark)](https://github.com/suniti0804/github-readme-activity-graph)
