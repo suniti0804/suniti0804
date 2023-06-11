@@ -19,7 +19,7 @@
   </br></br></br>
   
   </p>
-
+<!---
 <br><br><br><br>
 <h2>📊 My GitHub Stats</h2>
 
@@ -34,10 +34,11 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suniti0804&show_icons=true&theme=tokyonight_duo" alt="suniti0804" /></p>
 
-<!-- ACTIVITY GRAPH TRACKER -->
-[![Suniti's github activity graph](https://activity-graph.herokuapp.com/graph?username=suniti0804&theme=react-dark)](https://github.com/suniti0804/github-readme-activity-graph)
+<!-- ACTIVITY GRAPH TRACKER 
+[![Suniti's github activity graph](https://activity-graph.herokuapp.com/graph?username=suniti0804&theme=react-dark)](https://github.com/suniti0804/github-readme-activity-graph)  
 
 
+--->
 
 </br></br></br></br>
 
