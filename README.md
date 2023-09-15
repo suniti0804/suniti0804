@@ -1,12 +1,9 @@
 <h1>👋 Hi there, I'm Suniti </h1>
 
+With a keen eye on excellence and a mindset for innovation, I am actively shaping an impactful and fulfilling career in the field of Software Development. Having a strong foundation in problem-solving, diverse skill set and experiences through various internships and projects, I am certain of my capacity to adapt to the fast-paced and innovative nature of the industry. 
+As I progress, I am committed to pushing boundaries, embracing opportunities for growth, and making a positive difference in the world through software development.
 
-- 🎓 I am in my pre final year studying Electronics and Communication Engineering at Heritage Institute of Technology, Kolkata. 
-- 👩‍💻 I practice Data Structures and Algortihms in C++.
-- 💻 I am interested in domain of Machine Learning and Android Development
-- 💻 Currently I am learning React JS and Kotlin.
-- 🗨 You can connect with me on [LinkedIn](https://www.linkedin.com/in/suniti-53173a1b1/) or can send me an email at suniti0804@gmail.com.                                     
-  
+My art world at Instagram - @sunitisartverse
   
   <br>
 <p align="left"><h2>👩‍💻 My Activities across Coding Platforms </h2></p>
