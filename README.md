@@ -25,6 +25,7 @@
 
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suniti0804" alt="suniti0804" /></a> </p> --->
 - 👩🏻‍💻 I am currently working as a **Software Engineer** at **Atlassian**.
+- 🏫 I am a 2023 B.Tech Graduate in ECE from Heritage Institute of Technology, Kolkata.
 - 💼 My previous experiences includes -
     -    **Software Engineer** Intern, **Atlassian**.
     -    **Member of Technical Staff** and **Mentor**, **GeeksforGeeks**.
