@@ -1,25 +1,3 @@
-<h1>👋 Hi there, I'm Suniti </h1>
-
-With a keen eye on excellence and a mindset for innovation, I am actively shaping an impactful and fulfilling career in the field of Software Development. Having a strong foundation in problem-solving, diverse skill set and experiences through various internships and projects, I am certain of my capacity to adapt to the fast-paced and innovative nature of the industry. 
-As I progress, I am committed to pushing boundaries, embracing opportunities for growth, and making a positive difference in the world through software development.
-
-My art world at Instagram - @sunitisartverse
-  
-  <br>
-<p align="left"><h2>👩‍💻 My Activities across Coding Platforms </h2></p>
-  <img align="right" width="400" height="250" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
-  
-  <p align="left">
-  <a href="https://auth.geeksforgeeks.org/user/suniti0804/practice/">⭐GeeksForGeeks</a> <br>
-  <a href="https://leetcode.com/suniti0804/">⭐LeetCode</a> <br>
-  <a href="https://www.hackerearth.com/@suniti0804">⭐HackerEarth</a>
-  </br></br></br>
-  
-  </p>
-<!---
-<br><br><br><br>
-<h2>📊 My GitHub Stats</h2>
-
 
 <!---![](https://komarev.com/ghpvc/?username=suniti0804)
 
@@ -37,10 +15,74 @@ My art world at Instagram - @sunitisartverse
 
 --->
 
-</br></br></br></br>
+<h1 align="center">Hi, Welcome to Suniti's Profile</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=suniti0804&label=Profile%20views&color=0e75b6&style=flat" alt="suniti0804" /> </p>
+
+<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suniti0804" alt="suniti0804" /></a> </p> --->
+- 👩🏻‍💻 I am currently working as a **Software Engineer** at **Atlassian**.
+- 💼 My previous experiences includes -
+    -    **Software Engineer** Intern, **Atlassian**.
+    -    **Member of Technical Staff** and **Mentor**, **GeeksforGeeks**.
+    -    **President**, **CodeChef HITK Chapter**
+- 💻 I am deeply passionate about **Backend Development** and **DevOps**.
+- 📝 I have a strong interest in **Data Structures and Algorithms** and enjoy developing my problem-solving abilities.
+- 📝 I write articles on [https://medium.com/@suniti0804](https://medium.com/@suniti0804)
+
+  <br>
+
+<!---- <p align="center"> <a href="https://twitter.com/suniti0804" target="blank"><img src="https://img.shields.io/twitter/follow/suniti0804?logo=twitter&style=for-the-badge" alt="suniti0804" /></a> </p> ---->
+<h2>Discover More About Me</h2>
+<h3 align="left">My Coding Profiles</h3>
+<a href="https://auth.geeksforgeeks.org/user/suniti0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suniti0804" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/suniti0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suniti0804" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/suniti0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suniti0804" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@suniti0804" target="blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_identity.png" alt="@suniti0804" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/suniti0804" target="blank"><img align="center" src="https://yt3.googleusercontent.com/Lkx3tvgHdRADC3wXQ5TfJZRTeH4nboEPA_-eJChOZ6jRkOdY35lcg014Whj36rHFXhrHY1T_4cs=s900-c-k-c0x00ffffff-no-rj" alt="suniti0804" height="30" width="40" /></a>
+
+
+<h3 align="left">Connect With Me</h3>
+<p align="left">
+<a href="https://twitter.com/suniti0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suniti0804" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suniti0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suniti0804" height="30" width="40" /></a>
+<a href="https://instagram.com/sunitisartverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunitisartverse" height="30" width="40" /></a>
+<a href="https://medium.com/@suniti0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suniti0804" height="30" width="40" /></a>
+
+</p>
+<br>
+ <h2> Tools and Technologies </h2>
+ <h3>Data Structures and Algorithms</h3>
+ 
+ ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+ ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=00599C&logo=Java&logoColor=FFFFFF&label=)
+ 
+ <h3>Backend Technologies</h3>
+ 
+ ![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=000000&logo=Spring&logoColor=FFFFFF&label=)
+ ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
+ ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
+ ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
+ 
+ <h3>Database</h3>
+ 
+ ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+ ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4479A1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+ 
+ 
+ <h3> Testing frameworks </h3>
+ 
+ ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 
 
 
+<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suniti0804&show_icons=true&locale=en&layout=compact" alt="suniti0804" /></p>--->
+
+<h2>GitHub Profile's Status</h2>
+<p align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=suniti0804&show_icons=true&theme=tokyonight)    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suniti0804&theme=tokyonight)](https://git.io/streak-stats)  
+
+
+</p>
  
 
             
