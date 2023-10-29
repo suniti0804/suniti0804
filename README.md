@@ -16,7 +16,12 @@
 --->
 
 <h1 align="center">Hi, Welcome to Suniti's Profile</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=suniti0804&label=Profile%20views&color=0e75b6&style=flat" alt="suniti0804" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suniti0804&label=Profile%20views&color=0e75b6&style=flat" alt="suniti0804" />
+  <a href="https://github.com/suniti0804">
+    <img src="https://img.shields.io/github/followers/suniti0804?label=Follow&style=social" alt="GitHub followers">
+  </a>
+</p>
 
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suniti0804" alt="suniti0804" /></a> </p> --->
 - 👩🏻‍💻 I am currently working as a **Software Engineer** at **Atlassian**.
@@ -26,7 +31,6 @@
     -    **President**, **CodeChef HITK Chapter**
 - 💻 I am deeply passionate about **Backend Development** and **DevOps**.
 - 📝 I have a strong interest in **Data Structures and Algorithms** and enjoy developing my problem-solving abilities.
-- 📝 I write articles on [https://medium.com/@suniti0804](https://medium.com/@suniti0804)
 
   <br>
 
