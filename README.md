@@ -18,11 +18,13 @@
 **Project Management Tools:** Jira, Confluence
 
 <h2>My Coding Profiles</h2>
+<div align="center">
 <a href="https://auth.geeksforgeeks.org/user/suniti0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suniti0804" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suniti0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suniti0804" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/suniti0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suniti0804" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@suniti0804" target="blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_identity.png" alt="@suniti0804" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/suniti0804" target="blank"><img align="center" src="https://yt3.googleusercontent.com/Lkx3tvgHdRADC3wXQ5TfJZRTeH4nboEPA_-eJChOZ6jRkOdY35lcg014Whj36rHFXhrHY1T_4cs=s900-c-k-c0x00ffffff-no-rj" alt="suniti0804" height="30" width="40" /></a>
+</div>
 
 <h2>Connect With Me</h2>
 <p align="left">
@@ -41,4 +43,5 @@
 - 📚 I'm a huge Potterhead and proud of it!
   
 <h2> And to Lighten the Mood </h2>
+
 Here's a joke for you: Why don't programmers like nature? It has too many bugs!🐞
