@@ -6,42 +6,16 @@
 
 
 <h2> My Technical Proficiencies </h2>
-<h3>Languages</h3>
- 
- ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
- ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=00599C&logo=Java&logoColor=FFFFFF&label=)
- 
-<h3>Backend Technologies</h3>
 
- ![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=000000&logo=Spring&logoColor=FFFFFF&label=)
- ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
+**Languages:** C++, Java
 
- <h3>Database</h3>
+**Backend Technologies:** Spring, Spring Boot, REST, GraphQL
 
- ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
- ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4479A1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+**Database:** MySQL, PostgreSQL
 
- <h3>API Technologies</h3>
+**DevOps Tools:** Postman, Gradle, Maven, Docker, Git, GitHub, Bitbucket
 
- ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E434AA&logo=GraphQL&logoColor=FFFFFF&label=)
- ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%233776AB.svg?style=for-the-badge&logo=rest&logoColor=white)
- 
-<h3>DevOps Tools</h3>
-
- ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
- ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
- ![Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Maven&color=C71A36&logo=Apache+Maven&logoColor=FFFFFF&label=)
- ![Jenkins](https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=D24939&logo=Jenkins&logoColor=FFFFFF&label=)
- ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
- ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
- ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
- ![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)
-
- <h3>Project Management Tools</h3>
-
- ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
- ![Confluence](https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=172B4D&logo=Confluence&logoColor=FFFFFF&label=)
- 
+**Project Management Tools:** Jira, Confluence
 
 <h2>My Coding Profiles</h2>
 <a href="https://auth.geeksforgeeks.org/user/suniti0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suniti0804" height="30" width="40" /></a>
@@ -58,10 +32,13 @@
 </p>
 
 
-<h2> A Little Bit More About Me </h2>
-☕ I'm probably the only software engineer you'll meet who doesn't drink coffee or tea - not even once! <br>
-♟️ In my free time, you'll often find me engrossed in a game of chess. <br>
-📚 I'm a huge Potterhead and proud of it! <br>
+<h2> Fun Facts About Me </h2>
 
+- ☕ I'm probably the only software engineer you'll meet who doesn't drink coffee or tea - not even once!
+
+- ♟️ In my free time, you'll often find me engrossed in a game of chess.
+
+- 📚 I'm a huge Potterhead and proud of it!
+  
 <h2> And to Lighten the Mood </h2>
-🤣 Here's a joke for you: Why don't programmers like nature? It has too many bugs!
+Here's a joke for you: Why don't programmers like nature? It has too many bugs!🐞
