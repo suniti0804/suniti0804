@@ -34,6 +34,5 @@
 - ♟️ I enjoy playing chess in my free time.  
 - ⚡ Deeply immersed in the wizarding world of Harry Potter!   
 
-<h2>And to Lighten the Mood</h2>
 
 Here's a joke for you: Why don't programmers like nature? It has too many bugs!🐞
