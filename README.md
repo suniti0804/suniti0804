@@ -5,9 +5,11 @@
   <a href="https://twitter.com/suniti0804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suniti0804" height="30" width="40" /></a>
 </p>
 
-- 👩🏻‍💻 I'm a **Software Engineer** at **Atlassian**, where I'm contributing to the development of the **Jira Platform**. My work involves crafting robust, efficient, and scalable solutions that power one of the world's leading project management tools.
+- 👩🏻‍💻 I'm a **Software Engineer** at **Atlassian**, where I'm contributing to the development of the **Jira Platform**.
 - 🎓 I'm a 2023 B.Tech Graduate in ECE from Heritage Institute of Technology, Kolkata.
 - 🔭 I specialize in **Backend Development**, **DevOps**, and have a strong foundation in **Data Structures and Algorithms**.
+- 🌱 I believe in lifelong learning and growing as a Software Engineer.
+
 
 
 <h2>My Technical Proficiencies</h2>
@@ -28,7 +30,7 @@
 
 <h2>Fun Facts About Me</h2>
 
-- ☕ I'm a software engineer who doesn't rely on coffee or tea!  
+- ☕ I'm probably the only software engineer you'll meet who doesn't drink coffee or tea - not even once!
 - ♟️ I enjoy playing chess in my free time.  
 - ⚡ Deeply immersed in the wizarding world of Harry Potter!   
 
